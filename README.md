@@ -1,1 +1,1 @@
-# HCI_Projecy
+# HCI_Project
